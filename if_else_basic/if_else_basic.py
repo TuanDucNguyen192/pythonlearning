@@ -1,6 +1,7 @@
 diem = 0
 diem = input("nhap tuoi ")
 diem = int(diem)
+
 if diem >= 18 and diem <= 40:
     print("Ban du dieu kien tham roi")
 elif diem > 40:
