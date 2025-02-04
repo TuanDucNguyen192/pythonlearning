@@ -1,2 +1,0 @@
-# pythonlearning
-storing python code
